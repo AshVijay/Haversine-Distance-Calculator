@@ -1,0 +1,15 @@
+Instructions:
+
+The following outputs are for a distance value 100m.
+
+Inorder to run, please modify the directory paths as per your requirements 
+
+The Output Directory contains the following:
+
+Drone_path.csv (SRT converted to csv)
+Drone_path.kml (csv of the Drone path converted to KML)
+Output.xlsl (Excel file containing the images within 100 m from drone position)
+POI_ouput.xlsl (Excel file containing images within 100m from Point of interest)
+
+
+ 
